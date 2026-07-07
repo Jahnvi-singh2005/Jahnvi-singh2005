@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=16&duration=2800&pause=900&color=C2006E&center=true&vCenter=true&width=650&lines=✦+ARRA+Scholar+·+Sole+BITS+Pilani+Selectee+2024+%26+2025+✦;✦+AI+Safety+Researcher+·+arXiv+2512.10449+✦;✦+Cognitive+Neuroscience+@+CNDL+IIT+Delhi+✦;✦+Building+things+that+matter+✦;✦+She's+everything.+She's+also+a+BITS+engineer.+✦)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=16&duration=2800&pause=900&color=C2006E&center=true&vCenter=true&width=650&lines=✦+ARRA+Scholar+·+Sole+BITS+Pilani+Selectee+2024+%26+2025+✦;✦+AI+Safety+Researcher+·+arXiv+2512.10449+✦;✦+Cognitive+Neuroscience+@+Cognition+and+Neural+Dynamics+Lab✦;✦+Building+things+that+matter+✦;✦+She's+everything.+She's+also+a+BITS+engineer.+✦)](https://git.io/typing-svg)
 
 <br/>
 
