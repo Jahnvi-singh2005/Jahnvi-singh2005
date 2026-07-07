@@ -1,10 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3FA4,FF9ED2,FFCCE8,D966C0,FF3FA4&height=140&section=header&text=Hi%20I'm%20Jahnvi!%20💖&fontSize=42&fontFamily=Pacifico&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=✦%20CS%20@%20BITS%20Pilani%20·%20AI%20Safety%20·%20Cognitive%20Neuroscience%20·%20Fintech%20Builder%20✦&descAlignY=58&descSize=14&descColor=fff0f8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3FA4,FF9ED2,FFCCE8,D966C0,FF3FA4&height=160&section=header&text=Hi%20I'm%20Jahnvi!%20💖&fontSize=48&fontFamily=Pacifico&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=✦%20Anything%20is%20possible%20—%20I%20am%20unstoppable%20✦&descAlignY=60&descSize=16&descColor=fff0f8" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=16&duration=2800&pause=900&color=C2006E&center=true&vCenter=true&width=650&lines=✦+ARRA+Scholar;✦+AI+Safety+Researcher+·+arXiv+2512.10449+✦;✦+Cognitive+Neuroscience+@+Cognition+and+Neural+Dynamics+Lab✦;✦+Building+things+that+matter+✦;✦+She's+everything.+She's+also+a+BITS+engineer.+✦)](https://git.io/typing-svg)
+<img src="https://media0.giphy.com/media/O8a9ky22Na7pF2UDeM/200.gif" width="80" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media4.giphy.com/media/6Lqd7IpZEJs5RwXnHM/giphy.gif" width="80" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media1.giphy.com/media/VyDDk3aoi4GoNTiIUs/100.gif" width="80" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media2.giphy.com/media/Ei5w0aCbv5iBXu6u6H/giphy.gif" width="80" />
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=17&duration=2600&pause=800&color=C2006E&center=true&vCenter=true&width=680&lines=✦+ARRA+Scholar+·+Sole+BITS+Pilani+Selectee+2024+%26+2025+✦;✦+AI+Safety+Researcher+·+arXiv%3A2512.10449+✦;✦+Cognitive+Neuroscience+%40+CNDL+IIT+Delhi+✦;✦+Anything+is+possible+—+I+am+unstoppable+✦;✦+She's+everything.+She's+also+a+BITS+engineer.+✦)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,20 +29,40 @@
 
 ## 🎀 About me
 
-| CURRENTLY | RESEARCH | ALSO ME |
-|-----------|----------|---------|
-| SWE Intern @ [Kustodian](https://kustodian.life) — building AI pipelines for India's unclaimed asset recovery. | **AI Safety Research** · Prompt injection, LLM reliability, evaluation & reviewer bias · [arXiv:2512.10449](https://arxiv.org/abs/2512.10449v2) <br/><br/> **Cognitive Neuroscience Research** · Learning sciences, ICAP framework, brain-based learning @ CNDL IIT Delhi. | Lead vocalist · Pianist · Indian classical arts nerd · AI in Education enthusiast · Policy reader · Curious about how the mind learns and how AI can make it better. |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/💼_CURRENTLY-ff3fa4?style=for-the-badge&labelColor=c2006e" /><br/><br/>
+      SWE Intern @ <a href="https://kustodian.life"><strong>Kustodian</strong></a><br/>
+      Building AI pipelines for India's unclaimed asset recovery 🌸
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🔬_RESEARCH-ff3fa4?style=for-the-badge&labelColor=c2006e" /><br/><br/>
+      <strong>AI Safety</strong> · Prompt injection, LLM reliability, evaluation & reviewer bias · <a href="https://arxiv.org/abs/2512.10449v2">arXiv:2512.10449</a><br/><br/>
+      <strong>Cognitive Neuroscience</strong> · Learning sciences, ICAP framework, brain-based learning @ CNDL IIT Delhi
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🌸_ALSO_ME-ff3fa4?style=for-the-badge&labelColor=c2006e" /><br/><br/>
+      Lead vocalist 🎤 · Pianist 🎹<br/>
+      Indian classical arts nerd 🪷<br/>
+      AI in Education enthusiast 📚<br/>
+      Policy reader · Curious about how the mind learns & how AI can make it better 💖
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 💅 Skills & Tools
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-ffe0f5?style=flat-square&logo=python&logoColor=c2006e)
 ![Flask](https://img.shields.io/badge/Flask-f0e0ff?style=flat-square&logo=flask&logoColor=7a0040)
 ![SQL](https://img.shields.io/badge/SQL-ffe8e0?style=flat-square&logo=postgresql&logoColor=c2006e)
 ![LaTeX](https://img.shields.io/badge/LaTeX-e0f5ff?style=flat-square&logo=latex&logoColor=7a0040)
 ![Git](https://img.shields.io/badge/Git-ffe0f5?style=flat-square&logo=git&logoColor=c2006e)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-f0e0ff?style=flat-square&logoColor=c2006e)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-f0e0ff?style=flat-square)
 ![Technical SEO](https://img.shields.io/badge/Technical_SEO-ffe8e0?style=flat-square)
 ![Product Research](https://img.shields.io/badge/Product_Research-e0f5ff?style=flat-square)
 ![Gemini / Claude APIs](https://img.shields.io/badge/Gemini_%2F_Claude_APIs-ffe0f5?style=flat-square)
@@ -42,64 +72,98 @@
 ![AI Safety](https://img.shields.io/badge/AI_Safety-ffe0f5?style=flat-square)
 ![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-f0e0ff?style=flat-square)
 
+</div>
+
 ---
 
 ## 🧠 Exploring & Learning
 
-💗 Learning Sciences &nbsp;&nbsp; 💗 Cognitive Neuroscience &nbsp;&nbsp; 💗 AI in Education &nbsp;&nbsp; 💗 Machine Learning &nbsp;&nbsp; 💗 Human-AI Interaction
-
----
-
-## 🌹 Proud Projects
-
-**📝 [scribe-lens](https://github.com/Jahnvi-singh2005/scribe-lens)**
-> Async blog generation pipeline with evaluator-optimizer gates using Gemini 2.5 Flash. Built with Flask + Render deployment.
-
-![Python](https://img.shields.io/badge/Python-ffe0f0?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-ffe0f0?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-ffe0f0?style=flat-square)
-![Agentic Workflow](https://img.shields.io/badge/Agentic_Workflow-ffe0f0?style=flat-square)
-
----
-
-**🔍 SEO Diagnostic Crawler**
-> BFS spider + GSC health checker that diagnosed a 50% traffic drop across 436 crawled pages at Kustodian.
-
-![Python](https://img.shields.io/badge/Python-ffe0f0?style=flat-square)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-ffe0f0?style=flat-square)
-![GSC API](https://img.shields.io/badge/GSC_API-ffe0f0?style=flat-square)
-
----
-
-**🧩 [NeetCode Tracker](https://github.com/Jahnvi-singh2005/neetcode-tracker)**
-> Personal DSA tracker to stay consistent and visualize problem-solving progress. Built for mindful learning & accountability.
-
-![Python](https://img.shields.io/badge/Python-ffe0f0?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-ffe0f0?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-ffe0f0?style=flat-square)
-![Plotly](https://img.shields.io/badge/Plotly-ffe0f0?style=flat-square)
-
 <div align="center">
 
-*✨ More projects coming soon... ✨*
+![Learning Sciences](https://img.shields.io/badge/💗_Learning_Sciences-ff3fa4?style=for-the-badge&labelColor=c2006e)
+![Cognitive Neuroscience](https://img.shields.io/badge/💗_Cognitive_Neuroscience-ff3fa4?style=for-the-badge&labelColor=c2006e)
+![AI in Education](https://img.shields.io/badge/💗_AI_in_Education-ff3fa4?style=for-the-badge&labelColor=c2006e)
+![Machine Learning](https://img.shields.io/badge/💗_Machine_Learning-ff3fa4?style=for-the-badge&labelColor=c2006e)
+![Human-AI Interaction](https://img.shields.io/badge/💗_Human--AI_Interaction-ff3fa4?style=for-the-badge&labelColor=c2006e)
 
 </div>
 
 ---
 
+## 🌹 Proud Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/Jahnvi-singh2005/scribe-lens">scribe-lens</a></h3>
+      Async blog generation pipeline with evaluator-optimizer gates using Gemini 2.5 Flash. Built with Flask + Render deployment.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-ffe0f0?style=flat-square&logo=python&logoColor=c2006e" />
+      <img src="https://img.shields.io/badge/Flask-ffe0f0?style=flat-square&logo=flask&logoColor=c2006e" />
+      <img src="https://img.shields.io/badge/Gemini-ffe0f0?style=flat-square&logoColor=c2006e" />
+      <img src="https://img.shields.io/badge/Agentic_Workflow-ffe0f0?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 SEO Diagnostic Crawler</h3>
+      BFS spider + GSC health checker that diagnosed a 50% traffic drop across 436 crawled pages at Kustodian.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-ffe0f0?style=flat-square&logo=python&logoColor=c2006e" />
+      <img src="https://img.shields.io/badge/Cloudflare-ffe0f0?style=flat-square&logo=cloudflare&logoColor=c2006e" />
+      <img src="https://img.shields.io/badge/GSC_API-ffe0f0?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 <a href="https://github.com/Jahnvi-singh2005/neetcode-tracker">NeetCode Tracker</a></h3>
+      Personal DSA tracker to stay consistent and visualize problem-solving progress. Built for mindful learning & accountability.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-ffe0f0?style=flat-square&logo=python&logoColor=c2006e" />
+      <img src="https://img.shields.io/badge/Streamlit-ffe0f0?style=flat-square&logo=streamlit&logoColor=c2006e" />
+      <img src="https://img.shields.io/badge/SQLite-ffe0f0?style=flat-square" />
+      <img src="https://img.shields.io/badge/Plotly-ffe0f0?style=flat-square" />
+    </td>
+    <td width="50%" valign="center" align="center">
+      <br/>
+      <img src="https://media4.giphy.com/media/OChHHKoETqkaVlvDWv/200.gif" width="140" /><br/>
+      <em>✨ More projects coming soon... ✨</em>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ✨ What I care about
 
-| 🛡️ AI Safety | 🧠 The Learning Brain | 🎓 AI in Education | 💛 Impact through Tech |
-|:---:|:---:|:---:|:---:|
-| Building reliable, safe and aligned AI systems through research and rigorous evaluation. | Understanding how the brain learns to design better educational experiences. | Using AI to personalize learning, support educators, and expand access to quality education. | Solving real-world problems at the intersection of technology, policy, and people. |
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🛡️_AI_Safety-ff3fa4?style=for-the-badge&labelColor=c2006e" /><br/><br/>
+      Building reliable, safe and aligned AI systems through research and rigorous evaluation.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🧠_The_Learning_Brain-ff3fa4?style=for-the-badge&labelColor=c2006e" /><br/><br/>
+      Understanding how the brain learns to design better educational experiences.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🎓_AI_in_Education-ff3fa4?style=for-the-badge&labelColor=c2006e" /><br/><br/>
+      Using AI to personalize learning, support educators, and expand access to quality education.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/💛_Impact_through_Tech-ff3fa4?style=for-the-badge&labelColor=c2006e" /><br/><br/>
+      Solving real-world problems at the intersection of technology, policy, and people.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📄 Research
 
-**Prompt Injection & Jailbreak Taxonomy** · [arXiv:2512.10449](https://arxiv.org/abs/2512.10449v2)
-
-> 15-strategy jailbreak taxonomy across 3 attack classes · Evaluated across 13 LLMs · Introduced the WAVS metric · Key finding: open-source models significantly more vulnerable than closed-source.
+<table>
+  <tr>
+    <td>
+      <strong>Prompt Injection & Jailbreak Taxonomy</strong> · <a href="https://arxiv.org/abs/2512.10449v2">arXiv:2512.10449</a><br/><br/>
+      15-strategy jailbreak taxonomy across 3 attack classes · Evaluated across 13 LLMs · Introduced the WAVS metric · Key finding: open-source models significantly more vulnerable than closed-source.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -115,7 +179,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3FA4,FF9ED2,FFCCE8,D966C0,FF3FA4&height=90&section=footer&animation=twinkling" width="100%"/>
+<img src="https://media2.giphy.com/media/haOGmxDQSaGj9HxzdB/200.gif" width="60" />
+&nbsp;
+<img src="https://media0.giphy.com/media/tHz61mOicY5uJMHBim/200.gif" width="60" />
+&nbsp;
+<img src="https://media2.giphy.com/media/haOGmxDQSaGj9HxzdB/200.gif" width="60" />
+
+<br/>
 
 ### 📬 Let's connect!
 
@@ -125,6 +195,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-ff3fa4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c2006e)](mailto:jahnvi.2811.singh@gmail.com)
 [![arXiv](https://img.shields.io/badge/arXiv_2512.10449-ff3fa4?style=for-the-badge&logo=arxiv&logoColor=white&labelColor=c2006e)](https://arxiv.org/abs/2512.10449v2)
 
-*✦ She's everything. She's also a BITS engineer. ✦*
+<br/>
+
+*✦ Anything is possible — I am unstoppable ✦*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3FA4,FF9ED2,FFCCE8,D966C0,FF3FA4&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
