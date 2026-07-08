@@ -1,17 +1,6 @@
-<style>
-/* Globally change all hyperlink text to violet */
-a {
-    color: #A100FF !important;
-}
-/* For links inside tables where Markdown styling can be finicky */
-table aStrong {
-    color: #A100FF !important;
-}
-</style>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3FA4,FF9ED2,FFCCE8,D966C0,FF3FA4&height=160&section=header&text=Hi%20I'm%20Jahnvi!%20💖&fontSize=48&fontFamily=Pacifico&fontColor=FFB3D1&animation=twinkling&fontAlignY=40&desc=✦%20Anything%20is%20possible%20—%20I%20am%20unstoppable%20✦&descAlignY=60&descSize=16&descColor=FFB3D1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3FA4,FF9ED2,FFCCE8,D966C0,FF3FA4&height=160&section=header&text=Hi%20I'm%20Jahnvi!%20💖&fontSize=48&fontFamily=Pacifico&fontColor=FFB3D1&animation=twinkling&fontAlignY=40&desc=✦%20Anything%20is%20possible%20—%20I%20am%20unstoppable%20✦&descAlignY=60&descSize=16&descColor=FFC0CB" width="100%"/>
 
 <br/>
 
@@ -25,7 +14,7 @@ table aStrong {
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=17&duration=2600&pause=800&color=FFB3D1&center=true&vCenter=true&width=680&lines=✦+ARRA+Scholar+·✦;✦+AI+Safety+Researcher+·+arXiv%3A2512.10449+✦;✦+Cognitive+Neuroscience+%40+CNDL+BITS+Pilani✦;✦+Anything+is+possible+—+I+am+unstoppable+✦;✦+She's+everything.+She's+also+a+BITS+engineer.+✦)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=17&duration=2600&pause=800&color=FFC0CB&center=true&vCenter=true&width=680&lines=✦+ARRA+Scholar+·✦;✦+AI+Safety+Researcher+·+arXiv%3A2512.10449+✦;✦+Cognitive+Neuroscience+%40+CNDL+BITS+Pilani✦;✦+Anything+is+possible+—+I+am+unstoppable+✦;✦+She's+everything.+She's+also+a+BITS+engineer.+✦)](https://git.io/typing-svg)
 
 <br/>
 
@@ -44,20 +33,20 @@ table aStrong {
   <tr>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/💼_CURRENTLY-ff3fa4?style=for-the-badge&labelColor=c2006e" /><br/><br/>
-      SWE Intern @ <a href="https://kustodian.life"><strong>Kustodian</strong></a><br/>
-      Building for India's unclaimed asset recovery 🌸
+      <font color="#FFB3D1">SWE Intern @ <a href="https://kustodian.life"><font color="#C084FC"><strong>Kustodian</strong></font></a><br/>
+      Building for India's unclaimed asset recovery 🌸</font>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/🔬_RESEARCH-ff3fa4?style=for-the-badge&labelColor=c2006e" /><br/><br/>
-      <strong>AI Safety</strong> · Prompt injection, LLM reliability, evaluation & reviewer bias · <a href="https://arxiv.org/abs/2512.10449v2">arXiv:2512.10449</a><br/><br/>
-      <strong>Cognitive Neuroscience</strong> · Learning sciences, ICAP framework, brain-based learning @ CNDL IIT Delhi
+      <font color="#FFB3D1"><strong>AI Safety</strong> · Prompt injection, LLM reliability, evaluation & reviewer bias · <a href="https://arxiv.org/abs/2512.10449v2"><font color="#C084FC">arXiv:2512.10449</font></a><br/><br/>
+      <strong>Cognitive Neuroscience</strong> · Learning sciences, ICAP framework, brain-based learning @ CNDL IIT Delhi</font>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/🌸_ALSO_ME-ff3fa4?style=for-the-badge&labelColor=c2006e" /><br/><br/>
-      Lead vocalist 🎤 · Pianist 🎹<br/>
+      <font color="#FFB3D1">Lead vocalist 🎤 · Pianist 🎹<br/>
       Indian classical arts nerd 🪷<br/>
       AI in Education enthusiast 📚<br/>
-      Policy reader · Curious about how the mind learns & how AI can make it better 💖
+      Policy reader · Curious about how the mind learns & how AI can make it better 💖</font>
     </td>
   </tr>
 </table>
@@ -106,16 +95,16 @@ table aStrong {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📝 <a href="https://github.com/Jahnvi-singh2005/scribe-lens">scribe-lens</a></h3>
-      Async blog generation pipeline with evaluator-optimizer gates using Gemini 2.5 Flash. Built with Flask + Render deployment.<br/><br/>
+      <h3>📝 <a href="https://github.com/Jahnvi-singh2005/scribe-lens"><font color="#C084FC">scribe-lens</font></a></h3>
+      <font color="#FFB3D1">Async blog generation pipeline with evaluator-optimizer gates using Gemini 2.5 Flash. Built with Flask + Render deployment.</font><br/><br/>
       <img src="https://img.shields.io/badge/Python-ffe0f0?style=flat-square&logo=python&logoColor=c2006e" />
       <img src="https://img.shields.io/badge/Flask-ffe0f0?style=flat-square&logo=flask&logoColor=c2006e" />
       <img src="https://img.shields.io/badge/Gemini-ffe0f0?style=flat-square&logoColor=c2006e" />
       <img src="https://img.shields.io/badge/Agentic_Workflow-ffe0f0?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 SEO Diagnostic Crawler</h3>
-      BFS spider + GSC health checker that diagnosed a 50% traffic drop across 436 crawled pages at Kustodian.<br/><br/>
+      <h3><font color="#FFB3D1">🔍 SEO Diagnostic Crawler</font></h3>
+      <font color="#FFB3D1">BFS spider + GSC health checker that diagnosed a 50% traffic drop across 436 crawled pages at Kustodian.</font><br/><br/>
       <img src="https://img.shields.io/badge/Python-ffe0f0?style=flat-square&logo=python&logoColor=c2006e" />
       <img src="https://img.shields.io/badge/Cloudflare-ffe0f0?style=flat-square&logo=cloudflare&logoColor=c2006e" />
       <img src="https://img.shields.io/badge/GSC_API-ffe0f0?style=flat-square" />
@@ -123,8 +112,8 @@ table aStrong {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧩 <a href="https://github.com/Jahnvi-singh2005/neetcode-tracker">NeetCode Tracker</a></h3>
-      Personal DSA tracker to stay consistent and visualize problem-solving progress. Built for mindful learning & accountability.<br/><br/>
+      <h3>🧩 <a href="https://github.com/Jahnvi-singh2005/neetcode-tracker"><font color="#C084FC">NeetCode Tracker</font></a></h3>
+      <font color="#FFB3D1">Personal DSA tracker to stay consistent and visualize problem-solving progress. Built for mindful learning & accountability.</font><br/><br/>
       <img src="https://img.shields.io/badge/Python-ffe0f0?style=flat-square&logo=python&logoColor=c2006e" />
       <img src="https://img.shields.io/badge/Streamlit-ffe0f0?style=flat-square&logo=streamlit&logoColor=c2006e" />
       <img src="https://img.shields.io/badge/SQLite-ffe0f0?style=flat-square" />
@@ -146,19 +135,19 @@ table aStrong {
   <tr>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/🛡️_AI_Safety-ff3fa4?style=for-the-badge&labelColor=c2006e" /><br/><br/>
-      Building reliable, safe and aligned AI systems through research and rigorous evaluation.
+      <font color="#FFB3D1">Building reliable, safe and aligned AI systems through research and rigorous evaluation.</font>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/🧠_The_Learning_Brain-ff3fa4?style=for-the-badge&labelColor=c2006e" /><br/><br/>
-      Understanding how the brain learns to design better educational experiences.
+      <font color="#FFB3D1">Understanding how the brain learns to design better educational experiences.</font>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/🎓_AI_in_Education-ff3fa4?style=for-the-badge&labelColor=c2006e" /><br/><br/>
-      Using AI to personalize learning, support educators, and expand access to quality education.
+      <font color="#FFB3D1">Using AI to personalize learning, support educators, and expand access to quality education.</font>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/💛_Impact_through_Tech-ff3fa4?style=for-the-badge&labelColor=c2006e" /><br/><br/>
-      Solving real-world problems at the intersection of technology, policy, and people.
+      <font color="#FFB3D1">Solving real-world problems at the intersection of technology, policy, and people.</font>
     </td>
   </tr>
 </table>
@@ -170,8 +159,8 @@ table aStrong {
 <table>
   <tr>
     <td>
-      <strong>Prompt Injection & Jailbreak Taxonomy</strong> · <a href="https://arxiv.org/abs/2512.10449v2">arXiv:2512.10449</a><br/><br/>
-      15-strategy jailbreak taxonomy across 3 attack classes · Evaluated across 13 LLMs · Introduced the WAVS metric · Key finding: open-source models significantly more vulnerable than closed-source.
+      <font color="#FFB3D1"><strong>Prompt Injection & Jailbreak Taxonomy</strong> · <a href="https://arxiv.org/abs/2512.10449v2"><font color="#C084FC">arXiv:2512.10449</font></a><br/><br/>
+      15-strategy jailbreak taxonomy across 3 attack classes · Evaluated across 13 LLMs · Introduced the WAVS metric · Key finding: open-source models significantly more vulnerable than closed-source.</font>
     </td>
   </tr>
 </table>
