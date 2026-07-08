@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3FA4,FF9ED2,FFCCE8,D966C0,FF3FA4&height=160&section=header&text=Hi%20I'm%20Jahnvi!%20💖&fontSize=48&fontFamily=Pacifico&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=✦%20Anything%20is%20possible%20—%20I%20am%20unstoppable%20✦&descAlignY=60&descSize=16&descColor=fff0f8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3FA4,FF9ED2,FFCCE8,D966C0,FF3FA4&height=160&section=header&text=Hi%20I'm%20Jahnvi!%20💖&fontSize=48&fontFamily=Pacifico&fontColor=FFB3D1&animation=twinkling&fontAlignY=40&desc=✦%20Anything%20is%20possible%20—%20I%20am%20unstoppable%20✦&descAlignY=60&descSize=16&descColor=fff0f8" width="100%"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=17&duration=2600&pause=800&color=C2006E&center=true&vCenter=true&width=680&lines=✦+ARRA+Scholar+·✦;✦+AI+Safety+Researcher+·+arXiv%3A2512.10449+✦;✦+Cognitive+Neuroscience+%40+CNDL+BITS+Pilani✦;✦+Anything+is+possible+—+I+am+unstoppable+✦;✦+She's+everything.+She's+also+a+BITS+engineer.+✦)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=17&duration=2600&pause=800&color=FFB3D1&center=true&vCenter=true&width=680&lines=✦+ARRA+Scholar+·✦;✦+AI+Safety+Researcher+·+arXiv%3A2512.10449+✦;✦+Cognitive+Neuroscience+%40+CNDL+BITS+Pilani✦;✦+Anything+is+possible+—+I+am+unstoppable+✦;✦+She's+everything.+She's+also+a+BITS+engineer.+✦)](https://git.io/typing-svg)
 
 <br/>
 
@@ -197,7 +197,7 @@
 
 <br/>
 
-*✦ Anything is possible — I am unstoppable ✦*
+<font color="#FFB3D1"><em>✦ Anything is possible — I am unstoppable ✦</em></font>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF3FA4,FF9ED2,FFCCE8,D966C0,FF3FA4&height=100&section=footer&animation=twinkling" width="100%"/>
 
