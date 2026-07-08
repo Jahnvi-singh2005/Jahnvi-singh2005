@@ -14,14 +14,14 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=17&duration=2600&pause=800&color=C2006E&center=true&vCenter=true&width=680&lines=✦+ARRA+Scholar+·+Sole+BITS+Pilani+Selectee+2024+%26+2025+✦;✦+AI+Safety+Researcher+·+arXiv%3A2512.10449+✦;✦+Cognitive+Neuroscience+%40+CNDL+IIT+Delhi+✦;✦+Anything+is+possible+—+I+am+unstoppable+✦;✦+She's+everything.+She's+also+a+BITS+engineer.+✦)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=17&duration=2600&pause=800&color=C2006E&center=true&vCenter=true&width=680&lines=✦+ARRA+Scholar+·✦;✦+AI+Safety+Researcher+·+arXiv%3A2512.10449+✦;✦+Cognitive+Neuroscience+%40+CNDL+BITS+Pilani✦;✦+Anything+is+possible+—+I+am+unstoppable+✦;✦+She's+everything.+She's+also+a+BITS+engineer.+✦)](https://git.io/typing-svg)
 
 <br/>
 
 ![ARRA Scholar](https://img.shields.io/badge/🏆_ARRA_Scholar-ff3fa4?style=for-the-badge&labelColor=c2006e&color=ff3fa4)
 ![AI Safety Research](https://img.shields.io/badge/🔬_AI_Safety_Research-fff0f8?style=for-the-badge&labelColor=ffb3d9&color=fff0f8)
 ![Cognitive Neuroscience](https://img.shields.io/badge/🧠_Cognitive_Neuroscience_Research-fff0f8?style=for-the-badge&labelColor=ffb3d9&color=fff0f8)
-![Fintech Builder](https://img.shields.io/badge/💸_Fintech_Builder-ff3fa4?style=for-the-badge&labelColor=c2006e&color=ff3fa4)
+
 
 </div>
 
@@ -34,7 +34,7 @@
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/💼_CURRENTLY-ff3fa4?style=for-the-badge&labelColor=c2006e" /><br/><br/>
       SWE Intern @ <a href="https://kustodian.life"><strong>Kustodian</strong></a><br/>
-      Building AI pipelines for India's unclaimed asset recovery 🌸
+      Building for India's unclaimed asset recovery 🌸
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/🔬_RESEARCH-ff3fa4?style=for-the-badge&labelColor=c2006e" /><br/><br/>
